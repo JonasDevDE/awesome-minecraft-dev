@@ -9,6 +9,10 @@
 ### NPC Plugins:
 - https://github.com/FancyMcPlugins/FancyNpcs
 
+### Messages
+- https://github.com/KyoriPowered/adventure
+- https://github.com/Phoenix616/MineDown
+
 ### Protocol & Networking:
 - https://github.com/PaperMC/paperweight
 - https://github.com/Heath123/pakkit

@@ -1,46 +1,47 @@
 # awesome-minecraft-dev
 
-## Commands
+### Commands:
 - https://github.com/JorelAli/CommandAPI
 
-## Permission Plugins
+### Permission Plugins:
 - https://github.com/LuckPerms/LuckPerms
 
-## NPC Plugins
+### NPC Plugins:
 - https://github.com/FancyMcPlugins/FancyNpcs
 
-## Protocol & Networking
+### Protocol & Networking:
+- https://github.com/PaperMC/paperweight
 - https://github.com/Heath123/pakkit
 - https://github.com/nats-io/nats.java
 - https://github.com/netty/netty
 
-## Database Libraries
+### Database Libraries:
 - https://github.com/MorphiaOrg/morphia
 - https://github.com/hibernate/hibernate-orm
 - https://github.com/redis/jedis
 
-## Json Libraries
+### Json Libraries:
 - https://github.com/google/gson
 
-## Logging
+### Logging:
 - https://github.com/qos-ch/logback
 
-## Pathfinding
+### Pathfinding:
 - https://github.com/patheloper/pathetic
 
-## Dependency Injection
+### Dependency Injection:
 - https://github.com/google/guice
 
-## Utility Libraries
+### Utility Libraries:
 - https://github.com/google/guava
 
-## Webserver & HTTP Requests
+### Webserver & HTTP Requests:
 - https://github.com/javalin/javalin
 - https://github.com/square/okhttp
 
-## World Generation
+### World Generation:
 - https://github.com/VolmitSoftware/Iris
 
-## Minecraft Server Protection
+### Minecraft Server Protection:
 - https://neoprotect.net/
 - https://github.com/Thunder-Anti-Cheat

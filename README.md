@@ -42,6 +42,11 @@
 ### World Generation:
 - https://github.com/VolmitSoftware/Iris
 
-### Minecraft Server Protection:
+### Minecraft Server & Protection:
 - https://neoprotect.net/
+- https://www.cloudflare.com/
 - https://github.com/Thunder-Anti-Cheat
+
+### Server Hosting
+- https://www.hetzner.com/
+- https://www.ovhcloud.com/

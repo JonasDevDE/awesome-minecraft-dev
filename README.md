@@ -37,3 +37,10 @@
 ## Webserver & HTTP Requests
 - https://github.com/javalin/javalin
 - https://github.com/square/okhttp
+
+## World Generation
+- https://github.com/VolmitSoftware/Iris
+
+## Minecraft Server Protection
+- https://neoprotect.net/
+- https://github.com/Thunder-Anti-Cheat

@@ -1,0 +1,33 @@
+# awesome-minecraft-dev
+
+## Commands
+- https://github.com/JorelAli/CommandAPI
+
+## Permission Plugins
+- https://github.com/LuckPerms/LuckPerms
+
+## NPC Plugins
+- https://github.com/FancyMcPlugins/FancyNpcs
+
+## Protocol & Networking
+- https://github.com/Heath123/pakkit
+- https://github.com/nats-io/nats.java
+- https://github.com/netty/netty
+
+## Database Libraries
+- https://github.com/MorphiaOrg/morphia
+- https://github.com/hibernate/hibernate-orm
+- https://github.com/redis/jedis
+
+## Pathfinding
+- https://github.com/patheloper/pathetic
+
+## Dependency Injection
+- https://github.com/google/guice
+
+## Utility Libraries
+- https://github.com/google/guava
+
+## Webserver & HTTP Requests
+- https://github.com/javalin/javalin
+- https://github.com/square/okhttp

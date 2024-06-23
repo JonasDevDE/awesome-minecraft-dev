@@ -19,6 +19,12 @@
 - https://github.com/hibernate/hibernate-orm
 - https://github.com/redis/jedis
 
+## Json Libraries
+- https://github.com/google/gson
+
+## Logging
+- https://github.com/qos-ch/logback
+
 ## Pathfinding
 - https://github.com/patheloper/pathetic
 

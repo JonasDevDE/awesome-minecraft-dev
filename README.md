@@ -1,17 +1,9 @@
 # awesome-minecraft-dev
 
-### Commands:
-- https://github.com/JorelAli/CommandAPI
-
-### Permission Plugins:
-- https://github.com/LuckPerms/LuckPerms
-
-### NPC Plugins:
-- https://github.com/FancyMcPlugins/FancyNpcs
-
-### Messages
-- https://github.com/KyoriPowered/adventure
-- https://github.com/Phoenix616/MineDown
+### Server Software:
+- https://github.com/PurpurMC/Purpur
+- https://github.com/PaperMC/Velocity
+- https://github.com/Minestom/Minestom
 
 ### Protocol & Networking:
 - https://github.com/PaperMC/paperweight
@@ -23,6 +15,19 @@
 - https://github.com/MorphiaOrg/morphia
 - https://github.com/hibernate/hibernate-orm
 - https://github.com/redis/jedis
+
+### Messages:
+- https://github.com/KyoriPowered/adventure
+- https://github.com/Phoenix616/MineDown
+
+### Commands:
+- https://github.com/JorelAli/CommandAPI
+
+### Permission Plugins:
+- https://github.com/LuckPerms/LuckPerms
+
+### NPC Plugins:
+- https://github.com/FancyMcPlugins/FancyNpcs
 
 ### Json Libraries:
 - https://github.com/google/gson
@@ -51,6 +56,6 @@
 - https://www.cloudflare.com/
 - https://github.com/Thunder-Anti-Cheat
 
-### Server Hosting
+### Server Hosting:
 - https://www.hetzner.com/
 - https://www.ovhcloud.com/

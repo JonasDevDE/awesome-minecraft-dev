@@ -4,6 +4,7 @@
 - https://github.com/PurpurMC/Purpur
 - https://github.com/PaperMC/Velocity
 - https://github.com/Minestom/Minestom
+- https://github.com/minekube/gate
 
 ### Protocol & Networking:
 - https://github.com/PaperMC/paperweight

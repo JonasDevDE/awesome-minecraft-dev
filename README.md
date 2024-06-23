@@ -20,6 +20,14 @@
 - https://github.com/KyoriPowered/adventure
 - https://github.com/Phoenix616/MineDown
 
+### Utility Libraries:
+- https://github.com/google/guava
+- https://github.com/projectlombok/lombok
+
+### Webserver & HTTP Requests:
+- https://github.com/javalin/javalin
+- https://github.com/square/okhttp
+
 ### Commands:
 - https://github.com/JorelAli/CommandAPI
 
@@ -40,13 +48,6 @@
 
 ### Dependency Injection:
 - https://github.com/google/guice
-
-### Utility Libraries:
-- https://github.com/google/guava
-
-### Webserver & HTTP Requests:
-- https://github.com/javalin/javalin
-- https://github.com/square/okhttp
 
 ### World Generation:
 - https://github.com/VolmitSoftware/Iris
